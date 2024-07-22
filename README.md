@@ -1,3 +1,3 @@
 # EvilSnake
 
-open "https://CortezJEL.github.io/EvilSnake/"
+open "https://NanashiTheNameless.github.io/EvilSnake/"
